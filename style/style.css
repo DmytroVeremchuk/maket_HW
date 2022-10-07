@@ -1,0 +1,192 @@
+body .navbar .circle:hover {
+    background-color: rgb(207, 82, 20);
+    border-radius: 30%;
+}
+
+body .navbar .nav-link {
+    width: 80px;
+    height: 23px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 130%;
+    color: #2D2D2D;
+}
+
+body .black-box {
+    background: #1C1C1C;
+    border-radius: 16px;
+    height: 925.89px;
+}
+
+body .black-box .white_click {
+    position: absolute;
+    margin-top: 160px;
+    padding: 5px 10px 4px 5px;
+    border-radius: 16px;
+    background: #E8E8E8;
+    font-style: normal;
+    font-weight: 500;
+    margin-left: 80px;
+}
+
+body .black-box .white_click .click {
+    background: rgb(28, 28, 28);
+    color: #E8E8E8;
+    border-radius: 16px;
+}
+
+body .row {
+    margin-top: 40px;
+}
+
+body h2 {
+    width: 619px;
+    color: #FFFFFF;
+    font-size: 64px;
+    letter-spacing: -1px;
+    margin-left: 80px;
+    padding-top: 230px;
+}
+
+body .color_text {
+    background: linear-gradient(45deg, rgb(232, 94, 123), rgb(122, 102, 251));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+body p {
+    width: 619px;
+    font-size: 20px;
+    line-height: 160%;
+    color: #FFFFFF;
+    margin-top: 65px;
+    margin-left: 80px;
+}
+
+body .music {
+    padding: 24px;
+    width: 343.57px;
+    background: #F9FAFB;
+    border-radius: 12px;
+    margin-left: 80px;
+    margin-top: 65px;
+}
+
+body .col-md-4 {
+    margin-top: 65px;
+    margin-bottom: 50px;
+}
+
+body .episodes h2 {
+    color: #1C1C1C;
+    margin-left: 8px;
+}
+
+body .episodes .blocks .text p {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    color: #667085;
+    margin-left: 4px;
+}
+
+body .episodes .blocks .text h3 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    color: #101828;
+    margin-top: 32px;
+}
+
+body .episodes .blocks .text .media {
+    margin-top: 32px;
+}
+
+body .episodes .blocks .text .media h6 {
+    margin-bottom: 24px;
+}
+
+body .mission {
+    width: 1360px;
+    background: #F1F1F1;
+    border-radius: 16px;
+    margin-top: 150px;
+}
+
+body .mission .row h2 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 140%;
+    letter-spacing: -1.2px;
+    color: #1C1C1C;
+}
+
+body .mission .row .col-md-5 p {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 140%;
+    color: #1C1C1C;
+    width: 379px;
+}
+
+body .mission .row .col-md-7 p {
+    width: 541px;
+    height: 266px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 160%;
+    letter-spacing: -0.3px;
+    color: #585757;
+}
+
+body .mission .row .col-md-7 h4 {
+    margin-left: 82px;
+}
+
+body .down {
+    height: 189px;
+    background: #1C1C1C;
+    border-radius: 16px;
+}
+
+body .down .names {
+    margin-top: 60px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 130%;
+    color: #E8E8E8;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 60px 385px;
+    gap: 10px;
+}
+
+body .down .copy {
+    text-align: center;
+    color: #E8E8E8;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/*# sourceMappingURL=style.css.map */
